@@ -2,17 +2,12 @@
    https://themestr.app
 */
 body,
-.big-banner {
-    background-image: url('../images/background.png');
-}
-
 html {
     height: 100%;
     width: 100%;
     margin: 0;
     padding: 0;
-    background-image: url("background.png");
-    background: #cccccc !important;
+    background: #fff !important;
 }
 
 .box-coloum {
@@ -24,10 +19,10 @@ html {
 }
 
 .navbar-brand {
-    color: #9d9d9d !important;
+    color: rgb(39, 34, 34) !important;
 }
 
 .navbar-brand:hover,
 .navbar-brand:focus {
-    color: #fff !important;
+    color: rgb(66, 68, 69) !important;
 }
